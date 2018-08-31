@@ -46,3 +46,10 @@ you have installed Nodemon.
 
 Navigate to your folder containing the ReactJS project (react-todo-frontend).
 Start the ReactJS server by typing "npm start."
+
+
+Plan of Action:
+1.) Research the Giphy API
+2.) Implement the SearchBar and the searching of gifs using the API
+3.) Implement the modals for the selected search results and the selected gifs
+4.) integrate the the edit form into the selected gifs modal
