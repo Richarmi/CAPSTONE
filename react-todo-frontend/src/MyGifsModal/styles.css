@@ -1,0 +1,23 @@
+
+.my-gif-modal {
+  background-image: url('https://imgur.com/YrFTxeS.gif');
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.my-gif-modal p {
+  color: yellow;
+}
+
+.my-gif-modal a{
+  color: yellow;
+}
+
+.this-gif-description {
+  font-size: 30px;
+}
+
+.this-gif-title {
+  font-size: 30px;
+}

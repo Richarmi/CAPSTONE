@@ -1,0 +1,26 @@
+.gif-modal {
+  background-image: url('https://imgur.com/sBhrciq.gif');
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.gif-modal p {
+  color: yellow;
+}
+
+.gif-modal a{
+  color: yellow;
+}
+
+.this-gif-source {
+  font-size: 30px;
+}
+
+.this-gif-rating {
+  font-size: 30px;
+}
+
+strong {
+  color: white;
+}
